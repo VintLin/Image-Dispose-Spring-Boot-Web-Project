@@ -1,0 +1,4 @@
+{
+  "ResultMessage": "接口 [/api/album] 出现异常，方法：com.company.project.web.VideoTemplateController.album，异常摘要：当前实体类不包含名为temp_type的属性!",
+  "ResultCode": "400"
+}

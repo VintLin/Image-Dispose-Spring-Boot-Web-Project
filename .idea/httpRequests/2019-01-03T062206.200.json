@@ -1,0 +1,43 @@
+{
+  "ResultCode": 0,
+  "ResultMessage": "",
+  "Data": {
+    "lastPage": 4,
+    "navigatepageNums": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "startRow": 1,
+    "hasNextPage": true,
+    "prePage": 0,
+    "nextPage": 2,
+    "endRow": 1,
+    "orderBy": "",
+    "pageSize": 1,
+    "list": [
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_effects_1.png",
+        "textNum": 1,
+        "intro": "姓氏模板",
+        "imageNum": 0,
+        "maxletter": 1,
+        "id": 1,
+        "tempId": 0,
+        "video": "http://172.17.150.39:8080/file/effects_1.MP4"
+      }
+    ],
+    "pageNum": 1,
+    "navigatePages": 8,
+    "navigateFirstPage": 1,
+    "total": 4,
+    "pages": 4,
+    "firstPage": 1,
+    "size": 1,
+    "isLastPage": false,
+    "hasPreviousPage": false,
+    "navigateLastPage": 4,
+    "isFirstPage": true
+  }
+}

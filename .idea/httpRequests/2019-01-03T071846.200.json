@@ -1,0 +1,40 @@
+{
+  "ResultCode": 0,
+  "ResultMessage": "",
+  "Data": {
+    "lastPage": 1,
+    "navigatepageNums": [
+      1
+    ],
+    "startRow": 1,
+    "hasNextPage": false,
+    "prePage": 0,
+    "nextPage": 0,
+    "endRow": 1,
+    "orderBy": "",
+    "pageSize": 1,
+    "list": [
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_album_1.png",
+        "textNum": 0,
+        "intro": "四张图片，三个转场",
+        "imageNum": 4,
+        "maxletter": 0,
+        "id": 4,
+        "tempId": 0,
+        "video": "http://172.17.150.39:8080/file/album_1.MP4"
+      }
+    ],
+    "pageNum": 1,
+    "navigatePages": 8,
+    "navigateFirstPage": 1,
+    "total": 1,
+    "pages": 1,
+    "firstPage": 1,
+    "size": 1,
+    "isLastPage": true,
+    "hasPreviousPage": false,
+    "navigateLastPage": 1,
+    "isFirstPage": true
+  }
+}

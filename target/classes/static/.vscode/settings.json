@@ -1,0 +1,60 @@
+{
+
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    
+    //用于在Vue中体验Emmet
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    
+    //配置Eslint
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    
+    //设置字体大小
+    "editor.fontSize": 18,
+    "editor.tabSize": 2,
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    //Vetur默认使用 eslint-plugin-vue来检测 <template>,关闭该检测
+    "vetur.validation.template": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.vscode": true,
+        "**/.idea": true
+    },
+    //配置可以格式化的文件
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html",
+            "vue"
+        ]
+    },
+    "typescript.locale": "zh-CN"
+}

@@ -1,0 +1,3450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a050f0ed-be85-4da2-8dc5-9dac8e47abb4" name="Default Changelist" comment="refactor the code">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T061932.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T061935.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T062122.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T062158.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T062225.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T062357.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T065121.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T065140.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T065238.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T065240.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T065257.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T065429.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T070108.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T071155.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T074106.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T074823.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-22T075008.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-23T103007.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-11-23T103119.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-26T032555.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-26T032610.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-27T031119.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-27T031128.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-27T031555.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T052532.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T052808.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T052839.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T052956.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T053130.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T053151.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T053154.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T053155.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T053217.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T053531.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T053635.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T061807.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-12-28T061822.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-api-project-seed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-api-project-seed.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/input/test-dynamic-do/origin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/output/test-dynamic-do.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/disposetemp/dynamic/output/test-dynamic-do.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/disposetemp/log/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/disposetemp/log/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/album/example/200x356_album_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/album/example/720x1280_album_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/album/example/album.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/album/example/album_1.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/album/video/album_video_1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/background/1_effects.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/background/1_effects.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/background/200x400background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/background/400x200background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/background/700x400background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/background/900x500background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/200x356_effects_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/200x356_effects_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/200x356_effects_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/500x889_effects_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/720x1080_effects_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/720x1080_effects_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/720x1280_effects_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/effects.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/effects_1.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/effects_2.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/effects_3.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/example/effects_audio_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/video/effects_video_1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/effects/video/effects_video_2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/error/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/AGENCYB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/AGENCYR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ALGER.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ANTQUAB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ANTQUABI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ANTQUAI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ARIALN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ARIALNB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ARIALNBI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ARIALNI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ARIALUNI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ARLRDBD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BASKVILL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BAUHS93.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BELL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BELLB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BELLI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BERNHC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BKANT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_B.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_BI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_BLAI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_BLAR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_CB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_CBI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_CI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_CR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_I.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_PSTC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOD_R.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOOKOS.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOOKOSB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOOKOSBI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BOOKOSI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BRADHITC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BRITANIC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BRLNSB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BRLNSDB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BRLNSR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BROADW.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BRUSHSCI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/BSSYM7.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CALIFB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CALIFI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CALIFR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CALIST.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CALISTB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CALISTBI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CALISTI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CASTELAR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CENSCBK.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CENTAUR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CENTURY.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CHILLER.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/COLONNA.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/COOPBL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/COPRGTB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/COPRGTL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CURLZ___.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CalibriL.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/CalibriLI.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Candara.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Candarab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Candarai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Candaraz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ELEPHNT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ELEPHNTI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ENGR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ERASBD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ERASDEMI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ERASLGHT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ERASMD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FELIXTI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FORTE.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRABK.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRABKIT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRADM.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRADMCN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRADMIT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRAHV.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRAHVIT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRAMDCN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FREESCPT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FRSCRIPT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FTLTLT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FZSTK.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/FZYTK.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GADUGI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GADUGIB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GARA.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GARABD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GARAIT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GIGI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GILBI___.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GILB____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GILC____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GILI____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GILLUBCD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GILSANUB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GIL_____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GLECB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GLSNECB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOTHIC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOTHICB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOTHICBI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOTHICI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOUDOS.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOUDOSB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOUDOSI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/GOUDYSTO.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Gabriola.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/HARLOWSI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/HARNGTON.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/HATTEN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/HTOWERT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/HTOWERTI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/IMPRISHA.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/INFROMAN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ITCBLKAD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ITCEDSCR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ITCKRIST.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/JOKERMAN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/JUICE___.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/KUNSTLER.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/KhmerUI.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/KhmerUIb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LATINWD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LBRITE.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LBRITED.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LBRITEDI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LBRITEI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LCALLIG.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LEELAWAD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LEELAWDB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LFAX.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LFAXD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LFAXDI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LFAXI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LHANDW.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LSANS.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LSANSD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LSANSDI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LSANSI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LTYPE.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LTYPEB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LTYPEBO.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LTYPEO.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LaoUI.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/LaoUIb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MAGNETOB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MAIAN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MATURASC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MISTRAL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MOD20.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MSUIGHUB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MSUIGHUR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/MTCORSVA.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/NIAGENG.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/NIAGSOL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/NIRMALA.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/NIRMALAB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/OCRAEXT.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/OLDENGL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ONYX.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/OUTLOOK.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PALSCRI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PAPYRUS.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PARCHM.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PERBI___.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PERB____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PERI____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PERTIBD.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PERTILI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PER_____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PLAYBILL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/POORICH.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/PRISTINA.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/RAGE.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/RAVIE.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/REFSAN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/REFSPCL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ROCCB___.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ROCC____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ROCK.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ROCKB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ROCKBI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ROCKEB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ROCKI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SCHLBKB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SCHLBKBI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SCHLBKI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SCRIPTBL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SEGOEUISL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SHOWG.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SIMLI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SIMYOU.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/SNAP____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STCAIYUN.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STENCIL.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STFANGSO.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STHUPO.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STKAITI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STLITI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STSONG.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STXIHEI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STXINGKA.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STXINGKA_0.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STXINWEI.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/STZHONGS.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Shonar.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Shonarb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TCBI____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TCB_____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TCCB____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TCCEB.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TCCM____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TCMI____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TCM_____.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/TEMPSITC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/VINERITC.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/VIVALDII.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/VLADIMIR.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Vani.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/Vanib.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/WINGDNG2.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/WINGDNG3.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ahronbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/andlso.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsa.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsau.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsaub.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsaui.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsauz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/angsaz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/aparaj.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/aparajb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/aparajbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/aparaji.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/arabtype.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/arial.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/arialbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/arialbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ariali.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ariblk.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browa.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browau.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browaub.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browaui.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browauz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/browaz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/calibri.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/calibrib.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/calibrii.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/calibriz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cambriab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cambriai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cambriaz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/comic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/comicbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/consola.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/consolab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/consolai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/consolaz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/constan.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/constanb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/constani.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/constanz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/corbel.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/corbelb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/corbeli.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/corbelz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordia.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordiab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordiai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordiau.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordiaub.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordiaui.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordiauz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cordiaz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/cour.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/courbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/courbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/couri.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/daunpenh.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/david.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/davidbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/dokchamp.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ebrima.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ebrimabd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/estre.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/euphemia.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/fonts.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/framd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/framdit.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/frank.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/gautami.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/gautamib.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/georgia.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/georgiab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/georgiai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/georgiaz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/gisha.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/gishabd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/himalaya.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/impact.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/iskpota.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/iskpotab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kaiu.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kalinga.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kalingab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kartika.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kartikab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kokila.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kokilab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kokilabi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/kokilai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/l_10646.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/latha.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/lathab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/lucon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/lvnm.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/lvnmbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/majalla.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/majallab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/malgun.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/malgunbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/mangal.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/mangalb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/marlett.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/micross.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/monbaiti.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/moolbor.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/mriam.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/mriamc.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/msjh.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/msjhbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/msyh.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/msyhbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/msyi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/mvboli.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/nrkis.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ntailu.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/ntailub.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/nyala.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/pala.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/palab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/palabi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/palai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/phagspa.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/phagspab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/plantc.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/raavi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/raavib.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/rod.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoepr.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoeprb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoesc.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoescb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoeui.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoeuib.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoeuii.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoeuil.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/segoeuiz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/seguisb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/seguisym.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/shruti.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/shrutib.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/simfang.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/simhei.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/simkai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/simpbdo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/simpfxo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/simpo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/simsunb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/sylfaen.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/symbol.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/tahoma.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/tahomabd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/taile.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/taileb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/times.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/timesbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/timesbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/timesi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/tradbdo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/trado.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/trebuc.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/trebucbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/trebucbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/trebucit.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/tunga.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/tungab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcdb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcdbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcdi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcdl.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upceb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcebi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcei.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcel.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcfb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcfbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcfi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcfl.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcib.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcibi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcii.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcil.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcjb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcjbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcji.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcjl.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upckb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upckbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcki.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upckl.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upclb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upclbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcli.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/upcll.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/utsaah.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/utsaahb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/utsaahbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/utsaahi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/verdana.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/verdanab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/verdanai.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/verdanaz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/vijaya.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/vijayab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/vrinda.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/vrindab.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/webdings.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/fonts/wingding.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/UUID2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/logo.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/surname/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/surname/UUID.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/surname/UUID1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/surname/何.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/surname/杨.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/surname/林.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/temp/watermark/陈.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/felink/service/DelaunayTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/felink/service/DelaunayTriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/felink/service/DynamicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/felink/service/DynamicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/felink/service/EffectsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/felink/service/EffectsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/felink/service/TransitionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/felink/service/TransitionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ImageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/ImageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/VideoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/VideoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/WatermarkMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/WatermarkMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1375204590">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.128" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="TTF" value="1" />
+          <entry key="class" value="33" />
+          <entry key="css" value="2" />
+          <entry key="csv" value="6" />
+          <entry key="ftl" value="2" />
+          <entry key="html" value="21" />
+          <entry key="http" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="1577" />
+          <entry key="jpeg" value="3" />
+          <entry key="jpg" value="7" />
+          <entry key="js" value="10" />
+          <entry key="json" value="8" />
+          <entry key="md" value="3" />
+          <entry key="png" value="1" />
+          <entry key="properties" value="43" />
+          <entry key="ttf" value="1" />
+          <entry key="txt" value="27" />
+          <entry key="xml" value="34" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="33" />
+          <entry key="CSS" value="2" />
+          <entry key="FTL" value="2" />
+          <entry key="Font" value="2" />
+          <entry key="HTML" value="21" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="11" />
+          <entry key="JAVA" value="1577" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="10" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Properties" value="43" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="34" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="91" />
+          <entry key="csv" value="21" />
+          <entry key="dummy" value="277" />
+          <entry key="html" value="955" />
+          <entry key="java" value="170222" />
+          <entry key="js" value="1153" />
+          <entry key="json" value="268" />
+          <entry key="md" value="225" />
+          <entry key="properties" value="762" />
+          <entry key="txt" value="171" />
+          <entry key="xml" value="438" />
+          <entry key="yml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="91" />
+          <entry key="HTML" value="955" />
+          <entry key="JAVA" value="170222" />
+          <entry key="JSON" value="268" />
+          <entry key="JavaScript" value="1153" />
+          <entry key="Markdown" value="225" />
+          <entry key="PLAIN_TEXT" value="469" />
+          <entry key="Properties" value="762" />
+          <entry key="XML" value="438" />
+          <entry key="YAML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/ResourceFileController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/configurer/WebMvcConfigurer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="121" column="66" lean-forward="true" selection-start-line="121" selection-start-column="66" selection-end-line="121" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/service/configurer/Path.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/service/common/utility/FileUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/DisposeLogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="49" column="74" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ad</find>
+      <find>WarpFilter</find>
+      <find>filterPixels</find>
+      <find>crossDissolve</find>
+      <find>len</find>
+      <find>b</find>
+      <find>k</find>
+      <find>sys</find>
+      <find>pri</find>
+      <find>log.</find>
+      <find>log.info</find>
+      <find>th</find>
+      <find>exist</find>
+      <find>mahout</find>
+      <find>vf</find>
+      <find>springframework</find>
+      <find>getr</find>
+      <find>boot</find>
+      <find>pages</find>
+      <find>foreach</find>
+      <find>get</find>
+      <find>println</find>
+      <find>log</find>
+      <find>print</find>
+      <find>effects</find>
+      <find>album</find>
+      <find>log4j</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/dispose/dynamic/dynamic/DynamicControler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/dispose/transitions/TransitionsFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/dispose/dynamic/model/DynamicFragment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/felink/service/DynamicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/dispose/effects/EffectsFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/ffmpeg/core/MessageStream.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/felink/service/TransitionsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/dispose/transitions/transitions/AbstractTransitions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/dispose/dynamic/dynamic/DelaunayPlane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/web/CompositeController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/felink/service/EffectsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/ffmpeg/core/Executor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/ffmpeg/core/FfmpegCommand.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/felink/service/DelaunayTriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/LogMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/model/DisposeLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/service/impl/DisposeLogImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/service/DisposeLogService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/base.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/log.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/web/DisposeLogController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/template/log.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/core/ConnectionFactory.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/service/impl/DisposeLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenticationEntryPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenctiationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenctiationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenctiationLogoutSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/handler/SelfAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/web/AuthController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/base.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/configurer/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/configurer/Path.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/service/common/utility/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/web/ResourceFileController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/felink/project/configurer/WebMvcConfigurer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>IntegerDivisionInFloatingPointContext</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-api-project-seed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image dispose" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548136078670" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\image dispose\src\main\resources\static" />
+      <recent name="F:\Code\image dispose\src\main\resources\templates" />
+      <recent name="F:\Code\image dispose" />
+      <recent name="F:\Code\image dispose\src\main\temp\effects\example" />
+      <recent name="F:\Code\image dispose\src\main\temp\background" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.felink.project" />
+      <recent name="com.felink.service" />
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\image dispose\src\main\java\com\felink\service\dispose\dynamic" />
+      <recent name="F:\Code\image dispose\src\main\resources" />
+      <recent name="F:\Code\image dispose\src\main\java\com\company\project" />
+      <recent name="F:\Code\image dispose\src\main\temp" />
+      <recent name="F:\Code\image dispose\src\test\java" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/log/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/log/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/album" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/albmu" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/effects" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/effects" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/test" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/s" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/effects" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/album" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/effects" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/effects" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageIndex" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/effects" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="size" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/album" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="size" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/video/template/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="size" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/video/template/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="size" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/video/template/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="size" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/video" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="tempId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="uid" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="textArray" />
+                <option name="value" value="啦" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/video" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="tempId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="uid" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="textArray" />
+                <option name="value" value="[&quot;啦&quot;]" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/video" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-type" />
+                <option name="value" value="application/x-www-form-urlencoded;charset=UTF-8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="tempId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="uid" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="textArray" />
+                <option name="value" value="[&quot;啦&quot;]" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/video" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-type" />
+                <option name="value" value="application/x-www-form-urlencoded;charset=GBK" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="tempId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="uid" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="textArray" />
+                <option name="value" value="[&quot;啦&quot;]" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/video" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="application/x-www-form-urlencoded;charset" />
+                <option name="value" value="GBK" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="tempId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="uid" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="textArray" />
+                <option name="value" value="[&quot;啦&quot;]" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/video" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="application/x-www-form-urlencoded;charset" />
+                <option name="value" value="UTF-8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="tempId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="uid" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="textArray" />
+                <option name="value" value="[&quot;啦&quot;]" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/video" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="charset" />
+                <option name="value" value="UTF-8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="tempId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="uid" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="textArray" />
+                <option name="value" value="[&quot;啦&quot;]" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://localhost:8080" />
+          <option name="urlPath" value="/watermark/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="0628.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userName" />
+                <option name="value" value="this" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="max" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="03655.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://localhost:8080" />
+          <option name="urlPath" value="/watermark/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="0628.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userName" />
+                <option name="value" value="this" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="max" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="03655.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/fonts/fonts.json" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="0628.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userName" />
+                <option name="value" value="this" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="max" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="03655.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/fonts/fonts.json" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="0628.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userName" />
+                <option name="value" value="this" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="max" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="03655.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/res/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="0628.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userName" />
+                <option name="value" value="this" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="max" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="03655.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="0628.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userName" />
+                <option name="value" value="this" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="max" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="03655.jpeg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="&quot;file&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="&quot;0628.jpeg&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/res/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Disposition" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="&quot;file&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filename" />
+                <option name="value" value="&quot;0628.jpeg&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userId" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/res/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="multipart" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userId" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="multipart" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userId" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0628.jpeg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="multipart" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userId" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0044.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="multipart" />
+                <option name="value" value="form-data" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="user" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0044.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/upload" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="user" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0044.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/getImageToGif" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="user" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="E:/Python-Package/pyutility/src/tests/codes/0044.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/getImageToGif" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="user" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/src/main/temp/input/image001.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="size" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/src/main/temp/input/image001.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/detail" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/src/main/temp/input/image001.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="size" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/src/main/temp/input/image001.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userId" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/src/main/temp/input/image001.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/image/getImageToGif" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="userId" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/src/main/temp/input/image001.jpg" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (1)">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeGenerator" />
+      <module name="spring-boot-api-project-seed" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicControler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.felink.service.dispose.dynamic.dynamic.DynamicControler" />
+      <module name="spring-boot-api-project-seed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.felink.service.dispose.dynamic.dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.felink.service.common.model.Matrix3D" />
+      <module name="spring-boot-api-project-seed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.felink.service.common.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.felink.project.configurer.SecurityConfig" />
+      <module name="spring-boot-api-project-seed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.felink.project.configurer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-api-project-seed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.felink.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.felink.project.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-api-project-seed" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.project.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Application.DynamicControler" />
+      <item itemvalue="Application.Matrix3D" />
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Application.SecurityConfig" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="Application.SecurityConfig" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Application.DynamicControler" />
+        <item itemvalue="Application.Matrix3D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a050f0ed-be85-4da2-8dc5-9dac8e47abb4" name="Default Changelist" comment="" />
+      <created>1542877119554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542877119554</updated>
+      <workItem from="1542877129094" duration="44109000" />
+      <workItem from="1543196700659" duration="255283000" />
+      <workItem from="1544527456383" duration="74714000" />
+      <workItem from="1545201136007" duration="21419000" />
+      <workItem from="1545355928370" duration="3928000" />
+      <workItem from="1545622497830" duration="47297000" />
+      <workItem from="1545803339840" duration="82536000" />
+      <workItem from="1546392876568" duration="128740000" />
+      <workItem from="1546917955870" duration="310810000" />
+      <workItem from="1548034843524" duration="36722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DynamicTest - 2019.01.09 at 19h 49m 34s.xml">
+      <configuration name="DynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest - 2019.01.09 at 19h 52m 37s.xml">
+      <configuration name="DynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest - 2019.01.09 at 19h 55m 24s.xml">
+      <configuration name="DynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest - 2019.01.09 at 19h 58m 31s.xml">
+      <configuration name="DynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest - 2019.01.09 at 20h 11m 51s.xml">
+      <configuration name="DynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest - 2019.01.09 at 20h 14m 10s.xml">
+      <configuration name="DynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest_dynamicTest - 2019.01.17 at 13h 53m 39s.xml">
+      <configuration name="DynamicTest.dynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest_dynamicTest - 2019.01.17 at 13h 56m 01s.xml">
+      <configuration name="DynamicTest.dynamicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest_main - 2019.01.17 at 13h 58m 24s.xml">
+      <configuration name="DynamicTest.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DynamicTest_main - 2019.01.17 at 13h 58m 47s.xml">
+      <configuration name="DynamicTest.main" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1005558000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.2521322" />
+      <window_info id="Structure" order="1" sideWeight="0.50155765" side_tool="true" weight="0.26545843" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9077825" weight="0.36876357" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.71695095" weight="0.3275488" />
+      <window_info anchor="bottom" id="REST Client" order="6" sideWeight="0.7729211" weight="0.55748373" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.4977778" weight="0.3253796" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" sideWeight="0.20575693" side_tool="true" weight="0.4078091" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.09221748" side_tool="true" weight="0.28850326" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.39845476" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49573562" weight="0.29609543" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" weight="0.32321042" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="16" sideWeight="0.38646054" visible="true" weight="0.29826465" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.36673775" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.19349681" />
+      <window_info id="Structure" order="1" sideWeight="0.50155765" side_tool="true" weight="0.26545843" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9077825" weight="0.36876357" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.71695095" weight="0.3275488" />
+      <window_info anchor="bottom" id="REST Client" order="6" sideWeight="0.7729211" weight="0.55748373" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.4977778" weight="0.3253796" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" sideWeight="0.20575693" side_tool="true" weight="0.4078091" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.09221748" side_tool="true" weight="0.28850326" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.39845476" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49573562" weight="0.29609543" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" weight="0.32321042" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="16" sideWeight="0.38646054" visible="true" weight="0.29826465" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.36673775" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor the code" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/core/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="33" column="130" selection-start-line="33" selection-start-column="130" selection-end-line="33" selection-end-column="130" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/service/DisposeLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/TemplateTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/VideoTemplateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/service/impl/DisposeLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="81" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.6.RELEASE/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.6.RELEASE/spring-security-config-4.2.6.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.6.RELEASE/spring-security-web-4.2.6.RELEASE.jar!/org/springframework/security/web/authentication/SimpleUrlAuthenticationFailureHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.6.RELEASE/spring-security-web-4.2.6.RELEASE.jar!/org/springframework/security/web/AuthenticationEntryPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.6.RELEASE/spring-security-web-4.2.6.RELEASE.jar!/org/springframework/security/web/authentication/logout/LogoutHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" selection-start-line="12" selection-start-column="4" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.6.RELEASE/spring-security-web-4.2.6.RELEASE.jar!/org/springframework/security/web/authentication/logout/LogoutSuccessHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar!/org/apache/zookeeper/server/auth/AuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/service/impl/TemplateTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="106" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.6.RELEASE/spring-security-config-4.2.6.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/FormLoginConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.6.RELEASE/spring-security-config-4.2.6.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="200" column="66" selection-start-line="200" selection-start-column="66" selection-end-line="200" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.6.RELEASE/spring-security-web-4.2.6.RELEASE.jar!/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2016">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.6.RELEASE/spring-security-config-4.2.6.RELEASE.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="148" column="45" selection-start-line="148" selection-start-column="45" selection-end-line="148" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/WatermarkController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenticationLogoutSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/handler/AdminAuthenticationEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.6.RELEASE/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/authentication/AuthenticationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.6.RELEASE/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/CompositeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="163" column="73" selection-start-line="161" selection-start-column="29" selection-end-line="163" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.6.RELEASE/spring-security-web-4.2.6.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="44" column="39" lean-forward="true" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.6.RELEASE/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/authentication/AuthenticationDetailsSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.6.RELEASE/spring-security-web-4.2.6.RELEASE.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+          <folding>
+            <element signature="e#6873#6874#0" expanded="true" />
+            <element signature="e#6922#6923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.17.RELEASE/spring-core-4.3.17.RELEASE-sources.jar!/org/springframework/util/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/handler/SelfAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/configurer/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/DisposeLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="49" column="74" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/service/configurer/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/service/common/utility/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/web/ResourceFileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/felink/project/configurer/WebMvcConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="121" column="66" lean-forward="true" selection-start-line="121" selection-start-column="66" selection-end-line="121" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-boot-api-project-seed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-core:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6333333" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

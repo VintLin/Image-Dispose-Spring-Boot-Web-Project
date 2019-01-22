@@ -1,0 +1,35 @@
+{
+  "ResultCode": 0,
+  "ResultMessage": "视频特效模板",
+  "Data": {
+    "list": [
+      {
+        "tempId": 0,
+        "image": "http://172.17.150.39:8080/file/200x356_effects_1.png",
+        "video": "http://172.17.150.39:8080/file/effects_1.MP4",
+        "intro": "姓氏模板",
+        "imageNum": 0,
+        "textNum": 1,
+        "MaxLetter": 1
+      },
+      {
+        "tempId": 1,
+        "image": "http://172.17.150.39:8080/file/200x356_effects_2.png",
+        "video": "http://172.17.150.39:8080/file/effects_2.MP4",
+        "intro": "两句话,每句话八个字以内",
+        "imageNum": 0,
+        "textNum": 2,
+        "MaxLetter": 7
+      },
+      {
+        "tempId": 2,
+        "image": "http://172.17.150.39:8080/file/200x356_effects_3.png",
+        "video": "http://172.17.150.39:8080/file/effects_3.MP4",
+        "intro": "一个词,一到三个字以内",
+        "imageNum": 0,
+        "textNum": 1,
+        "MaxLetter": 3
+      }
+    ]
+  }
+}

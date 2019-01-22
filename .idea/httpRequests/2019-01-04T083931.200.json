@@ -1,0 +1,24 @@
+{
+  "Data": {
+    "total": 3,
+    "pages": 2,
+    "pageIndex": 2,
+    "hasPrevious": true,
+    "pageSize": 1,
+    "hasNext": false,
+    "list": [
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_effects_3.png",
+        "textNum": 1,
+        "intro": "一个词,一到三个字以内",
+        "imageNum": 0,
+        "maxletter": 3,
+        "id": 3,
+        "tempId": 2,
+        "video": "http://172.17.150.39:8080/file/effects_3.MP4"
+      }
+    ]
+  },
+  "ResultMessage": "",
+  "ResultCode": 0
+}

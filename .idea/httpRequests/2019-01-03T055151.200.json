@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "data": {
+    "endRow": 4,
+    "firstPage": 1,
+    "hasNextPage": false,
+    "hasPreviousPage": false,
+    "isFirstPage": true,
+    "isLastPage": true,
+    "lastPage": 1,
+    "list": [
+      {
+        "id": 1,
+        "image": "http://172.17.150.39:8080/file/200x356_effects_1.png",
+        "imageNum": 0,
+        "intro": "姓氏模板",
+        "maxletter": 1,
+        "tempId": 0,
+        "textNum": 1,
+        "video": "http://172.17.150.39:8080/file/effects_1.MP4"
+      },
+      {
+        "id": 2,
+        "image": "http://172.17.150.39:8080/file/200x356_effects_2.png",
+        "imageNum": 0,
+        "intro": "两句话,每句话七个字以内",
+        "maxletter": 7,
+        "tempId": 1,
+        "textNum": 2,
+        "video": "http://172.17.150.39:8080/file/effects_2.MP4"
+      },
+      {
+        "id": 3,
+        "image": "http://172.17.150.39:8080/file/200x356_effects_3.png",
+        "imageNum": 0,
+        "intro": "一个词,一到三个字以内",
+        "maxletter": 3,
+        "tempId": 2,
+        "textNum": 1,
+        "video": "http://172.17.150.39:8080/file/effects_3.MP4"
+      },
+      {
+        "id": 4,
+        "image": "http://172.17.150.39:8080/file/200x356_album_1.png",
+        "imageNum": 4,
+        "intro": "四张图片，三个转场",
+        "maxletter": 0,
+        "tempId": 0,
+        "textNum": 0,
+        "video": "http://172.17.150.39:8080/file/album_1.MP4"
+      }
+    ],
+    "navigateFirstPage": 1,
+    "navigateLastPage": 1,
+    "navigatePages": 8,
+    "navigatepageNums": [
+      1
+    ],
+    "nextPage": 0,
+    "orderBy": null,
+    "pageNum": 1,
+    "pageSize": 4,
+    "pages": 1,
+    "prePage": 0,
+    "size": 4,
+    "startRow": 1,
+    "total": 4
+  },
+  "message": "SUCCESS"
+}

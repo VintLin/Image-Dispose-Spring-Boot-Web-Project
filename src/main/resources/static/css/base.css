@@ -1,0 +1,65 @@
+.dark {
+    background: #4c535a;
+}
+
+.small {
+    font-size: 12px;
+}
+
+.white {
+    background: white;
+}
+
+.top-heigher {
+    margin-top: 50px;
+}
+
+.page-center {
+    width: 280px;
+    margin: 0px auto;
+}
+
+.window {
+    width: 500px;
+    margin: 50px auto;
+    background-color: #ffff;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 30px 20px;
+}
+
+.folder-open {
+    display: inline-block;
+    background-image: url("/image/folder-open.png");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.folder-close {
+    display: inline-block;
+    background-image: url("/image/folder-close.png");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.file {
+    display: inline-block;
+    background-image: url("/image/file.png");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.go-back {
+    display: inline-block;
+    background-image: url("/image/back.png");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+}

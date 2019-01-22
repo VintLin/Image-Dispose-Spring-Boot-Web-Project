@@ -1,0 +1,16 @@
+{
+  "ResultCode": 0,
+  "ResultMessage": "相册转场模板",
+  "Data": {
+    "list": [
+      {
+        "tempId": 0,
+        "image": "http://172.17.150.39:8080/file/200x356_album_1.png",
+        "video": "http://172.17.150.39:8080/file/album_1.MP4",
+        "intro": "四张图片，三个转场",
+        "imageNum": 4,
+        "textNum": 0
+      }
+    ]
+  }
+}

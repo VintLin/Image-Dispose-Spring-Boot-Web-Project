@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.felink.project.dao.VideoTemplateMapper">
+  <resultMap id="BaseResultMap" type="com.felink.project.model.VideoTemplate">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="temp_type" jdbcType="INTEGER" property="tempType" />
+    <result column="temp_id" jdbcType="INTEGER" property="tempId" />
+    <result column="image" jdbcType="VARCHAR" property="image" />
+    <result column="video" jdbcType="VARCHAR" property="video" />
+    <result column="intro" jdbcType="VARCHAR" property="intro" />
+    <result column="image_num" jdbcType="INTEGER" property="imageNum" />
+    <result column="text_num" jdbcType="INTEGER" property="textNum" />
+    <result column="MaxLetter" jdbcType="INTEGER" property="maxletter" />
+  </resultMap>
+</mapper>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<title>Dispose Image</title>
+	<meta charset="UTF-8">
+	<link rel="icon" type="image/x-icon" href="/image/ball.png">
+	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdn.bootcss.com/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://cdn.bootcss.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="css/base.css"/>
+</head>
+
+<!-- ---------------------------------导航栏---------------------------------------- -->
+<body class="dark">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+					<a class="navbar-brand" href="#">Dispose Image</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<ul class="navbar-nav mr-auto">
+							<li class="nav-item active">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">资源</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/fileList.html?path=">根目录</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/fileList.html?path=dynamic">静态图转动态</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/fileList.html?path=effects">特效模板</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/fileList.html?path=transitions">相册模板</a>
+								</div>
+							</li>
+
+							<li class="nav-item">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">日志</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/log.html?today=true">今天</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/log.html?week=true">本周</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/log.html?mounth=true">本月</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/log.html?year=true">本年</a>
+								</div>
+							</li>
+
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">测试</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<a class="dropdown-item" href="#">静态图转动态</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="#">特效模板</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="#">相册模板</a>
+								</div>
+							</li>
+
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">接口</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/effectsApiList.html">特效模板接口列表</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="http://172.17.150.39:8080/template/albumApiList.html">相册模板接口列表</a>
+								</div>
+							</li>
+
+							<li class="nav-item">
+								<a class="nav-link" role="button" href="http://172.17.150.39:8080/logout" aria-haspopup="true" aria-expanded="false">退出</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<!-- ---------------------------------内容---------------------------------------- -->
+
+
+	<!-- ---------------------------------调用---------------------------------------- -->
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.js"></script>
+	<script src="http://172.17.150.39:8080/js/base.js"></script>
+</body>
+</html>

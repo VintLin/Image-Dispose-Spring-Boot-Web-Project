@@ -1,0 +1,60 @@
+{
+  "ResultCode": 0,
+  "ResultMessage": "",
+  "Data": {
+    "lastPage": 1,
+    "navigatepageNums": [
+      1
+    ],
+    "startRow": 1,
+    "hasNextPage": false,
+    "prePage": 0,
+    "nextPage": 0,
+    "endRow": 3,
+    "orderBy": "",
+    "pageSize": 10,
+    "list": [
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_effects_1.png",
+        "textNum": 1,
+        "intro": "姓氏模板",
+        "imageNum": 0,
+        "maxletter": 1,
+        "id": 1,
+        "tempId": 0,
+        "video": "http://172.17.150.39:8080/file/effects_1.MP4"
+      },
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_effects_2.png",
+        "textNum": 2,
+        "intro": "两句话,每句话七个字以内",
+        "imageNum": 0,
+        "maxletter": 7,
+        "id": 2,
+        "tempId": 1,
+        "video": "http://172.17.150.39:8080/file/effects_2.MP4"
+      },
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_effects_3.png",
+        "textNum": 1,
+        "intro": "一个词,一到三个字以内",
+        "imageNum": 0,
+        "maxletter": 3,
+        "id": 3,
+        "tempId": 2,
+        "video": "http://172.17.150.39:8080/file/effects_3.MP4"
+      }
+    ],
+    "pageNum": 1,
+    "navigatePages": 8,
+    "navigateFirstPage": 1,
+    "total": 3,
+    "pages": 1,
+    "firstPage": 1,
+    "size": 3,
+    "isLastPage": true,
+    "hasPreviousPage": false,
+    "navigateLastPage": 1,
+    "isFirstPage": true
+  }
+}

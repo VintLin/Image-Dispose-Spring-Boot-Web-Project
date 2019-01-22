@@ -1,0 +1,24 @@
+{
+  "ResultCode": 0,
+  "ResultMessage": "",
+  "Data": {
+    "total": 1,
+    "pages": 1,
+    "pageIndex": 1,
+    "hasPrevious": false,
+    "pageSize": 1,
+    "hasNext": false,
+    "list": [
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_album_1.png",
+        "textNum": 0,
+        "intro": "四张图片，三个转场",
+        "imageNum": 4,
+        "maxletter": 0,
+        "id": 4,
+        "tempId": 0,
+        "video": "http://172.17.150.39:8080/file/album_1.MP4"
+      }
+    ]
+  }
+}

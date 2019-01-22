@@ -1,0 +1,41 @@
+{
+  "ResultCode": 0,
+  "ResultMessage": "",
+  "Data": {
+    "lastPage": 2,
+    "navigatepageNums": [
+      1,
+      2
+    ],
+    "startRow": 3,
+    "hasNextPage": false,
+    "prePage": 1,
+    "nextPage": 0,
+    "endRow": 3,
+    "orderBy": "",
+    "pageSize": 2,
+    "list": [
+      {
+        "image": "http://172.17.150.39:8080/file/200x356_effects_3.png",
+        "textNum": 1,
+        "intro": "一个词,一到三个字以内",
+        "imageNum": 0,
+        "maxletter": 3,
+        "id": 3,
+        "tempId": 2,
+        "video": "http://172.17.150.39:8080/file/effects_3.MP4"
+      }
+    ],
+    "pageNum": 2,
+    "navigatePages": 8,
+    "navigateFirstPage": 1,
+    "total": 3,
+    "pages": 2,
+    "firstPage": 1,
+    "size": 1,
+    "isLastPage": true,
+    "hasPreviousPage": true,
+    "navigateLastPage": 2,
+    "isFirstPage": false
+  }
+}
